@@ -1,4 +1,4 @@
-name = "kapes_proxy"
+name = "kapesproxy"
 type = "javascript"
 main = "src/index.js"
 

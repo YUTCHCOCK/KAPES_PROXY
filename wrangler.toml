@@ -1,8 +1,5 @@
 name = "kapesproxy"
-type = "javascript"
 main = "src/index.js"
-
-account_id = "d4b33a58cb735fadcf72877ea26c161b"
-zone_id = "18dbdeeb607af6daf2854c6a540b0835"
-routes = ["https://kapesplanet.com/*"]
+account_id = "18dbdeeb607af6daf2854c6a540b0835"
 compatibility_date = "2024-04-30"
+routes = ["https://kapesplanet.com/*"]

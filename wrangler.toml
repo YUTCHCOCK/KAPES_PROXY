@@ -2,4 +2,4 @@ name = "kapes"
 main = "src/index.js"
 account_id = "18dbdeeb607af6daf2854c6a540b0835"
 compatibility_date = "2024-04-30"
-routes = ["https://kapesplanet.com/*"]
+routes = ["kapesplanet.com/*"]
